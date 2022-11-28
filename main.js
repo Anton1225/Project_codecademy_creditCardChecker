@@ -66,6 +66,7 @@ let intArr = numberArr.map(el => parseInt(el))
 console.log(intArr);
 return intArr;
 }
+}
 convertToCardNumber('4556859466194478');
 function convertToValid (arr) {
   console.log(arr)
